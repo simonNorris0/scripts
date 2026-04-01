@@ -1,2 +1,2 @@
 # scripts
-various sh, Bash, csh, and zsh scripts
+various sh, Bash, csh, zsh, and Powershell scripts
